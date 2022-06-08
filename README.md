@@ -1,6 +1,6 @@
-# Engine
+# Atlas Engine
 
-To install Engine locally, the following pre-reqs are required.
+To install Atlas Engine locally, the following pre-reqs are required.
 
 * Linux (many of us develop on Ubuntu), Mac OS X, or Windows (we recommend WSL2)
 * Node.js v16 or later (we recommend installing via [`nvm`](https://github.com/nvm-sh/nvm)
