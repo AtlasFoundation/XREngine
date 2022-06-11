@@ -14,6 +14,6 @@ See the [Installation instructions](/docs/docs/1_installation/readme.md) for mor
 
 ### What is this?
 
-Engine is a fork of XREngine which we are using for research and development purposes toward an open, decentralized, agent-centric and spatially-aware Internet. This project emphasizes compatibility with other Atlas software.
+We are using this repository for research and development purposes toward an open, decentralized, agent-centric and spatially-aware Internet. This project emphasizes compatibility with other Atlas software.
 
 ![image](https://user-images.githubusercontent.com/18633264/172653958-7803cbab-acd8-408d-9838-cfb91a0effeb.png)
